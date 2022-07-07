@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hi, there! 👋
 ### I'm Zewei Zhang
 
 - 🔭 I’m currently studying at Faculty of Computer Science and Technology, Harbin Institute of Technology, Shenzhen
